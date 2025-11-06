@@ -41,10 +41,14 @@ git clone https://github.com/your-username/Crop-Yield-Prediction-Using-Machine-L
 cd Crop-Yield-Prediction-Using-Machine-Learning-And-IoT
 
 # Install dependencies
-pip install -r requirements.txt
+pip install flask flask-sqlalchemy flask-login flask-wtf flask-mail catboost scikit-learn matplotlib seaborn
+pip install email_validator
+python 3.10
 
 # Run the Flask web app
-python app.py
+python main.py
+
+```
 
 ## 🌐 Usage
 1. Start the Flask server.  
