@@ -71,8 +71,8 @@ python main.py
 ## 👨‍💻 Contributors
 - **Antara Chakravorthy (22BCB0020)**  
 - **Umar Khan (22BCE0501)**  
-- **Harshini Sunkara (22BCE2373)**  
-- *Supervisor:* **Dr. Sharief Basha S**, Associate Professor, VIT  
+- **Harshini Sunkara (22BCE2373)**
+- **Soumya ajmera (22BCT0005)**
 
 ---
 
