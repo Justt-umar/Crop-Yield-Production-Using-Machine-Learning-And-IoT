@@ -45,3 +45,34 @@ pip install -r requirements.txt
 
 # Run the Flask web app
 python app.py
+
+## 🌐 Usage
+1. Start the Flask server.  
+2. Open the web app in your browser.  
+3. Register or log in to your account.  
+4. Enter crop type, location, and season to get yield predictions.  
+5. View real-time IoT sensor data and insights.  
+6. Receive alerts or automated irrigation control based on predictions.  
+
+---
+
+## 📊 System Workflow
+1. IoT sensors collect environmental and soil data.  
+2. The Flask server receives and stores it in MongoDB.  
+3. The ML model (CatBoost) processes the data and predicts yield.  
+4. Results and recommendations are displayed on the web dashboard.  
+
+---
+
+## 👨‍💻 Contributors
+- **Antara Chakravorthy (22BCB0020)**  
+- **Umar Khan (22BCE0501)**  
+- **Harshini Sunkara (22BCE2373)**  
+- *Supervisor:* **Dr. Sharief Basha S**, Associate Professor, VIT  
+
+---
+
+## 📜 License
+This project was developed as part of **VIT B.Tech Project BCSE497J (2025)**.  
+© 2025 Crop Yield Prediction Team. All rights reserved.
+
